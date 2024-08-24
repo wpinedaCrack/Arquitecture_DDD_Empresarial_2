@@ -1,0 +1,16 @@
+C:\udemy\Arquitectura\ArquitecturaDDDEmpresarial\Pacagroup.Ecommerce.Application.Validator\bin\Debug\net7.0\Pacagroup.Ecommerce.Application.Validator.deps.json
+C:\udemy\Arquitectura\ArquitecturaDDDEmpresarial\Pacagroup.Ecommerce.Application.Validator\bin\Debug\net7.0\Pacagroup.Ecommerce.Application.Validator.dll
+C:\udemy\Arquitectura\ArquitecturaDDDEmpresarial\Pacagroup.Ecommerce.Application.Validator\bin\Debug\net7.0\Pacagroup.Ecommerce.Application.Validator.pdb
+C:\udemy\Arquitectura\ArquitecturaDDDEmpresarial\Pacagroup.Ecommerce.Application.Validator\bin\Debug\net7.0\Pacagroup.Ecommerce.Application.DTO.dll
+C:\udemy\Arquitectura\ArquitecturaDDDEmpresarial\Pacagroup.Ecommerce.Application.Validator\bin\Debug\net7.0\Pacagroup.Ecommerce.Application.DTO.pdb
+C:\udemy\Arquitectura\ArquitecturaDDDEmpresarial\Pacagroup.Ecommerce.Application.Validator\obj\Debug\net7.0\Pacagroup.Ecommerce.Application.Validator.csproj.AssemblyReference.cache
+C:\udemy\Arquitectura\ArquitecturaDDDEmpresarial\Pacagroup.Ecommerce.Application.Validator\obj\Debug\net7.0\Pacagroup.Ecommerce.Application.Validator.GeneratedMSBuildEditorConfig.editorconfig
+C:\udemy\Arquitectura\ArquitecturaDDDEmpresarial\Pacagroup.Ecommerce.Application.Validator\obj\Debug\net7.0\Pacagroup.Ecommerce.Application.Validator.AssemblyInfoInputs.cache
+C:\udemy\Arquitectura\ArquitecturaDDDEmpresarial\Pacagroup.Ecommerce.Application.Validator\obj\Debug\net7.0\Pacagroup.Ecommerce.Application.Validator.AssemblyInfo.cs
+C:\udemy\Arquitectura\ArquitecturaDDDEmpresarial\Pacagroup.Ecommerce.Application.Validator\obj\Debug\net7.0\Pacagroup.Ecommerce.Application.Validator.csproj.CoreCompileInputs.cache
+C:\udemy\Arquitectura\ArquitecturaDDDEmpresarial\Pacagroup.Ecommerce.Application.Validator\obj\Debug\net7.0\Pacagroup.Ecommerce.Application.Validator.sourcelink.json
+C:\udemy\Arquitectura\ArquitecturaDDDEmpresarial\Pacagroup.Ecommerce.Application.Validator\obj\Debug\net7.0\Pacagrou.D96E9D37.Up2Date
+C:\udemy\Arquitectura\ArquitecturaDDDEmpresarial\Pacagroup.Ecommerce.Application.Validator\obj\Debug\net7.0\Pacagroup.Ecommerce.Application.Validator.dll
+C:\udemy\Arquitectura\ArquitecturaDDDEmpresarial\Pacagroup.Ecommerce.Application.Validator\obj\Debug\net7.0\refint\Pacagroup.Ecommerce.Application.Validator.dll
+C:\udemy\Arquitectura\ArquitecturaDDDEmpresarial\Pacagroup.Ecommerce.Application.Validator\obj\Debug\net7.0\Pacagroup.Ecommerce.Application.Validator.pdb
+C:\udemy\Arquitectura\ArquitecturaDDDEmpresarial\Pacagroup.Ecommerce.Application.Validator\obj\Debug\net7.0\ref\Pacagroup.Ecommerce.Application.Validator.dll

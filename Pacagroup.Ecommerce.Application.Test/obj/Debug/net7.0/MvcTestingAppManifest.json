@@ -1,0 +1,12 @@
+{
+  "Pacagroup.Ecommerce.Application.DTO, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null": "C:\\udemy\\Arquitectura\\ArquitecturaDDDEmpresarial\\Pacagroup.Ecommerce.Application.DTO",
+  "Pacagroup.Ecommerce.Application.Interface, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null": "C:\\udemy\\Arquitectura\\ArquitecturaDDDEmpresarial\\Pacagroup.Ecommerce.Application.Interface",
+  "Pacagroup.Ecommerce.Application.UseCases, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null": "C:\\udemy\\Arquitectura\\ArquitecturaDDDEmpresarial\\Pacagroup.Ecommerce.Application.UseCases",
+  "Pacagroup.Ecommerce.Application.Validator, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null": "C:\\udemy\\Arquitectura\\ArquitecturaDDDEmpresarial\\Pacagroup.Ecommerce.Application.Validator",
+  "Pacagroup.Ecommerce.Domain, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null": "C:\\udemy\\Arquitectura\\ArquitecturaDDDEmpresarial\\Pacagroup.Ecommerce.Domain",
+  "Pacagroup.Ecommerce.Infrastructure, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null": "C:\\udemy\\Arquitectura\\ArquitecturaDDDEmpresarial\\Pacagroup.Ecommerce.Infrastructure",
+  "Pacagroup.Ecommerce.Persistence, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null": "C:\\udemy\\Arquitectura\\ArquitecturaDDDEmpresarial\\Pacagroup.Ecommerce.Persistence",
+  "Pacagroup.Ecommerce.Services.WebApi, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null": "C:\\udemy\\Arquitectura\\ArquitecturaDDDEmpresarial\\Pacagroup.Ecommerce.Services.WebApi",
+  "Pacagroup.Ecommerce.Transversal.Common, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null": "C:\\udemy\\Arquitectura\\ArquitecturaDDDEmpresarial\\Pacagroup.Ecommerce.Transversal.Common",
+  "Pacagroup.Ecommerce.Transversal.Logging, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null": "C:\\udemy\\Arquitectura\\ArquitecturaDDDEmpresarial\\Pacagroup.Ecommerce.Transversal.Logging"
+}

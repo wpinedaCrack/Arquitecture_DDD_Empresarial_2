@@ -1,0 +1,16 @@
+C:\udemy\Arquitectura\ArquitecturaDDDEmpresarial\Pacagroup.Ecommerce.Transversal.Logging\bin\Debug\net7.0\Pacagroup.Ecommerce.Transversal.Logging.deps.json
+C:\udemy\Arquitectura\ArquitecturaDDDEmpresarial\Pacagroup.Ecommerce.Transversal.Logging\bin\Debug\net7.0\Pacagroup.Ecommerce.Transversal.Logging.dll
+C:\udemy\Arquitectura\ArquitecturaDDDEmpresarial\Pacagroup.Ecommerce.Transversal.Logging\bin\Debug\net7.0\Pacagroup.Ecommerce.Transversal.Logging.pdb
+C:\udemy\Arquitectura\ArquitecturaDDDEmpresarial\Pacagroup.Ecommerce.Transversal.Logging\bin\Debug\net7.0\Pacagroup.Ecommerce.Transversal.Common.dll
+C:\udemy\Arquitectura\ArquitecturaDDDEmpresarial\Pacagroup.Ecommerce.Transversal.Logging\bin\Debug\net7.0\Pacagroup.Ecommerce.Transversal.Common.pdb
+C:\udemy\Arquitectura\ArquitecturaDDDEmpresarial\Pacagroup.Ecommerce.Transversal.Logging\obj\Debug\net7.0\Pacagroup.Ecommerce.Transversal.Logging.csproj.AssemblyReference.cache
+C:\udemy\Arquitectura\ArquitecturaDDDEmpresarial\Pacagroup.Ecommerce.Transversal.Logging\obj\Debug\net7.0\Pacagroup.Ecommerce.Transversal.Logging.GeneratedMSBuildEditorConfig.editorconfig
+C:\udemy\Arquitectura\ArquitecturaDDDEmpresarial\Pacagroup.Ecommerce.Transversal.Logging\obj\Debug\net7.0\Pacagroup.Ecommerce.Transversal.Logging.AssemblyInfoInputs.cache
+C:\udemy\Arquitectura\ArquitecturaDDDEmpresarial\Pacagroup.Ecommerce.Transversal.Logging\obj\Debug\net7.0\Pacagroup.Ecommerce.Transversal.Logging.AssemblyInfo.cs
+C:\udemy\Arquitectura\ArquitecturaDDDEmpresarial\Pacagroup.Ecommerce.Transversal.Logging\obj\Debug\net7.0\Pacagroup.Ecommerce.Transversal.Logging.csproj.CoreCompileInputs.cache
+C:\udemy\Arquitectura\ArquitecturaDDDEmpresarial\Pacagroup.Ecommerce.Transversal.Logging\obj\Debug\net7.0\Pacagroup.Ecommerce.Transversal.Logging.sourcelink.json
+C:\udemy\Arquitectura\ArquitecturaDDDEmpresarial\Pacagroup.Ecommerce.Transversal.Logging\obj\Debug\net7.0\Pacagrou.0B343A43.Up2Date
+C:\udemy\Arquitectura\ArquitecturaDDDEmpresarial\Pacagroup.Ecommerce.Transversal.Logging\obj\Debug\net7.0\Pacagroup.Ecommerce.Transversal.Logging.dll
+C:\udemy\Arquitectura\ArquitecturaDDDEmpresarial\Pacagroup.Ecommerce.Transversal.Logging\obj\Debug\net7.0\refint\Pacagroup.Ecommerce.Transversal.Logging.dll
+C:\udemy\Arquitectura\ArquitecturaDDDEmpresarial\Pacagroup.Ecommerce.Transversal.Logging\obj\Debug\net7.0\Pacagroup.Ecommerce.Transversal.Logging.pdb
+C:\udemy\Arquitectura\ArquitecturaDDDEmpresarial\Pacagroup.Ecommerce.Transversal.Logging\obj\Debug\net7.0\ref\Pacagroup.Ecommerce.Transversal.Logging.dll
