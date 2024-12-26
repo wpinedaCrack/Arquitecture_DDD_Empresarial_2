@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\udemy\\Arquitectura\\ArquitecturaDDDEmpresarial\\Pacagroup.Ecommerce.Domain\\Pacagroup.Ecommerce.Domain.csproj": {}
+    "C:\\udemy\\Arquitectura\\Empresarial_ArquitecturaMejorado\\Pacagroup.Ecommerce.Domain\\Pacagroup.Ecommerce.Domain.csproj": {}
   },
   "projects": {
-    "C:\\udemy\\Arquitectura\\ArquitecturaDDDEmpresarial\\Pacagroup.Ecommerce.Domain\\Pacagroup.Ecommerce.Domain.csproj": {
+    "C:\\udemy\\Arquitectura\\Empresarial_ArquitecturaMejorado\\Pacagroup.Ecommerce.Domain\\Pacagroup.Ecommerce.Domain.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\udemy\\Arquitectura\\ArquitecturaDDDEmpresarial\\Pacagroup.Ecommerce.Domain\\Pacagroup.Ecommerce.Domain.csproj",
+        "projectUniqueName": "C:\\udemy\\Arquitectura\\Empresarial_ArquitecturaMejorado\\Pacagroup.Ecommerce.Domain\\Pacagroup.Ecommerce.Domain.csproj",
         "projectName": "Pacagroup.Ecommerce.Domain",
-        "projectPath": "C:\\udemy\\Arquitectura\\ArquitecturaDDDEmpresarial\\Pacagroup.Ecommerce.Domain\\Pacagroup.Ecommerce.Domain.csproj",
+        "projectPath": "C:\\udemy\\Arquitectura\\Empresarial_ArquitecturaMejorado\\Pacagroup.Ecommerce.Domain\\Pacagroup.Ecommerce.Domain.csproj",
         "packagesPath": "C:\\Users\\luish\\.nuget\\packages\\",
-        "outputPath": "C:\\udemy\\Arquitectura\\ArquitecturaDDDEmpresarial\\Pacagroup.Ecommerce.Domain\\obj\\",
+        "outputPath": "C:\\udemy\\Arquitectura\\Empresarial_ArquitecturaMejorado\\Pacagroup.Ecommerce.Domain\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"

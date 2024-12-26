@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\udemy\\Arquitectura\\ArquitecturaDDDEmpresarial\\Pacagroup.Ecommerce.Transversal.Common\\Pacagroup.Ecommerce.Transversal.Common.csproj": {}
+    "C:\\udemy\\Arquitectura\\Empresarial_ArquitecturaMejorado\\Pacagroup.Ecommerce.Transversal.Common\\Pacagroup.Ecommerce.Transversal.Common.csproj": {}
   },
   "projects": {
-    "C:\\udemy\\Arquitectura\\ArquitecturaDDDEmpresarial\\Pacagroup.Ecommerce.Transversal.Common\\Pacagroup.Ecommerce.Transversal.Common.csproj": {
+    "C:\\udemy\\Arquitectura\\Empresarial_ArquitecturaMejorado\\Pacagroup.Ecommerce.Transversal.Common\\Pacagroup.Ecommerce.Transversal.Common.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\udemy\\Arquitectura\\ArquitecturaDDDEmpresarial\\Pacagroup.Ecommerce.Transversal.Common\\Pacagroup.Ecommerce.Transversal.Common.csproj",
+        "projectUniqueName": "C:\\udemy\\Arquitectura\\Empresarial_ArquitecturaMejorado\\Pacagroup.Ecommerce.Transversal.Common\\Pacagroup.Ecommerce.Transversal.Common.csproj",
         "projectName": "Pacagroup.Ecommerce.Transversal.Common",
-        "projectPath": "C:\\udemy\\Arquitectura\\ArquitecturaDDDEmpresarial\\Pacagroup.Ecommerce.Transversal.Common\\Pacagroup.Ecommerce.Transversal.Common.csproj",
+        "projectPath": "C:\\udemy\\Arquitectura\\Empresarial_ArquitecturaMejorado\\Pacagroup.Ecommerce.Transversal.Common\\Pacagroup.Ecommerce.Transversal.Common.csproj",
         "packagesPath": "C:\\Users\\luish\\.nuget\\packages\\",
-        "outputPath": "C:\\udemy\\Arquitectura\\ArquitecturaDDDEmpresarial\\Pacagroup.Ecommerce.Transversal.Common\\obj\\",
+        "outputPath": "C:\\udemy\\Arquitectura\\Empresarial_ArquitecturaMejorado\\Pacagroup.Ecommerce.Transversal.Common\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"

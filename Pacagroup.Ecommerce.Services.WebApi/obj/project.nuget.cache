@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "EIKJ1RZHkyo=",
+  "dgSpecHash": "eH7VOxNYa7k=",
   "success": true,
-  "projectFilePath": "C:\\udemy\\Arquitectura\\ArquitecturaDDDEmpresarial\\Pacagroup.Ecommerce.Services.WebApi\\Pacagroup.Ecommerce.Services.WebApi.csproj",
+  "projectFilePath": "C:\\udemy\\Arquitectura\\Empresarial_ArquitecturaMejorado\\Pacagroup.Ecommerce.Services.WebApi\\Pacagroup.Ecommerce.Services.WebApi.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\luish\\.nuget\\packages\\aspnetcore.healthchecks.redis\\7.0.1\\aspnetcore.healthchecks.redis.7.0.1.nupkg.sha512",
     "C:\\Users\\luish\\.nuget\\packages\\aspnetcore.healthchecks.sqlserver\\6.0.2\\aspnetcore.healthchecks.sqlserver.6.0.2.nupkg.sha512",

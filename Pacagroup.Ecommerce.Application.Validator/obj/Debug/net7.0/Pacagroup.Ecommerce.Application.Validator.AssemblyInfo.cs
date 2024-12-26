@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("Pacagroup.Ecommerce.Application.Validator")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+65b81e4b36e0ff812b08588a7f00352130911fac")]
 [assembly: System.Reflection.AssemblyProductAttribute("Pacagroup.Ecommerce.Application.Validator")]
 [assembly: System.Reflection.AssemblyTitleAttribute("Pacagroup.Ecommerce.Application.Validator")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

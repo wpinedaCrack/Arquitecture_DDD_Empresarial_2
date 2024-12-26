@@ -1203,11 +1203,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\udemy\\Arquitectura\\ArquitecturaDDDEmpresarial\\Pacagroup.Ecommerce.Infrastructure\\Pacagroup.Ecommerce.Infrastructure.csproj",
+      "projectUniqueName": "C:\\udemy\\Arquitectura\\Empresarial_ArquitecturaMejorado\\Pacagroup.Ecommerce.Infrastructure\\Pacagroup.Ecommerce.Infrastructure.csproj",
       "projectName": "Pacagroup.Ecommerce.Infrastructure",
-      "projectPath": "C:\\udemy\\Arquitectura\\ArquitecturaDDDEmpresarial\\Pacagroup.Ecommerce.Infrastructure\\Pacagroup.Ecommerce.Infrastructure.csproj",
+      "projectPath": "C:\\udemy\\Arquitectura\\Empresarial_ArquitecturaMejorado\\Pacagroup.Ecommerce.Infrastructure\\Pacagroup.Ecommerce.Infrastructure.csproj",
       "packagesPath": "C:\\Users\\luish\\.nuget\\packages\\",
-      "outputPath": "C:\\udemy\\Arquitectura\\ArquitecturaDDDEmpresarial\\Pacagroup.Ecommerce.Infrastructure\\obj\\",
+      "outputPath": "C:\\udemy\\Arquitectura\\Empresarial_ArquitecturaMejorado\\Pacagroup.Ecommerce.Infrastructure\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
@@ -1229,8 +1229,8 @@
         "net7.0": {
           "targetAlias": "net7.0",
           "projectReferences": {
-            "C:\\udemy\\Arquitectura\\ArquitecturaDDDEmpresarial\\Pacagroup.Ecommerce.Application.Interface\\Pacagroup.Ecommerce.Application.Interface.csproj": {
-              "projectPath": "C:\\udemy\\Arquitectura\\ArquitecturaDDDEmpresarial\\Pacagroup.Ecommerce.Application.Interface\\Pacagroup.Ecommerce.Application.Interface.csproj"
+            "C:\\udemy\\Arquitectura\\Empresarial_ArquitecturaMejorado\\Pacagroup.Ecommerce.Application.Interface\\Pacagroup.Ecommerce.Application.Interface.csproj": {
+              "projectPath": "C:\\udemy\\Arquitectura\\Empresarial_ArquitecturaMejorado\\Pacagroup.Ecommerce.Application.Interface\\Pacagroup.Ecommerce.Application.Interface.csproj"
             }
           }
         }

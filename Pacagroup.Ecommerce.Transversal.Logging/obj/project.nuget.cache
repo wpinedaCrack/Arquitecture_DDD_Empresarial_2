@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "yVOlUwTy5uo=",
+  "dgSpecHash": "J9uJw7mj+qE=",
   "success": true,
-  "projectFilePath": "C:\\udemy\\Arquitectura\\ArquitecturaDDDEmpresarial\\Pacagroup.Ecommerce.Transversal.Logging\\Pacagroup.Ecommerce.Transversal.Logging.csproj",
+  "projectFilePath": "C:\\udemy\\Arquitectura\\Empresarial_ArquitecturaMejorado\\Pacagroup.Ecommerce.Transversal.Logging\\Pacagroup.Ecommerce.Transversal.Logging.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\luish\\.nuget\\packages\\bouncycastle.netcore\\1.8.5\\bouncycastle.netcore.1.8.5.nupkg.sha512",
     "C:\\Users\\luish\\.nuget\\packages\\dapper\\2.0.123\\dapper.2.0.123.nupkg.sha512",
