@@ -723,13 +723,17 @@
             },
             "Microsoft.CodeAnalysis.CSharp.Scripting": {
               "target": "Package",
-              "version": "[4.0.0, )"
+              "version": "[4.5.0, )"
             },
             "Microsoft.CodeAnalysis.Common": {
               "target": "Package",
-              "version": "[4.0.0, )"
+              "version": "[4.5.0, )"
             },
             "Microsoft.CodeAnalysis.Features": {
+              "target": "Package",
+              "version": "[4.5.0, )"
+            },
+            "Microsoft.CodeAnalysis.Workspaces.Common": {
               "target": "Package",
               "version": "[4.5.0, )"
             },
@@ -764,10 +768,6 @@
             "Microsoft.VisualStudio.Azure.Containers.Tools.Targets": {
               "target": "Package",
               "version": "[1.16.1, )"
-            },
-            "Microsoft.VisualStudio.Web.CodeGeneration.Design": {
-              "target": "Package",
-              "version": "[6.0.6, )"
             },
             "Swashbuckle.AspNetCore": {
               "target": "Package",
@@ -941,10 +941,6 @@
             "Microsoft.Extensions.Logging": {
               "target": "Package",
               "version": "[7.0.0, )"
-            },
-            "WatchDog.NET": {
-              "target": "Package",
-              "version": "[1.4.11, )"
             }
           },
           "imports": [

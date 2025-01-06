@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "oQmhzQ/pI+0=",
+  "success": true,
+  "projectFilePath": "C:\\udemy\\Arquitectura\\Empresarial_ArquitecturaMejorado\\Pacagroup.Ecommerce.Transversal.Common\\Pacagroup.Ecommerce.Transversal.Common.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\luish\\.nuget\\packages\\fluentvalidation\\11.9.2\\fluentvalidation.11.9.2.nupkg.sha512"
+  ],
+  "logs": []
+}
