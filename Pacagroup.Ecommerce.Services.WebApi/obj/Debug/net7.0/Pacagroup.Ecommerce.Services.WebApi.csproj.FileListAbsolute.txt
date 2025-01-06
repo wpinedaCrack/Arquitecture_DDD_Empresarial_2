@@ -406,7 +406,6 @@ C:\udemy\Arquitectura\Empresarial_ArquitecturaMejorado\Pacagroup.Ecommerce.Servi
 C:\udemy\Arquitectura\Empresarial_ArquitecturaMejorado\Pacagroup.Ecommerce.Services.WebApi\bin\Debug\net7.0\HealthChecks.UI.dll
 C:\udemy\Arquitectura\Empresarial_ArquitecturaMejorado\Pacagroup.Ecommerce.Services.WebApi\bin\Debug\net7.0\HealthChecks.UI.Client.dll
 C:\udemy\Arquitectura\Empresarial_ArquitecturaMejorado\Pacagroup.Ecommerce.Services.WebApi\bin\Debug\net7.0\HealthChecks.UI.Core.dll
-C:\udemy\Arquitectura\Empresarial_ArquitecturaMejorado\Pacagroup.Ecommerce.Services.WebApi\bin\Debug\net7.0\HealthChecks.UI.InMemory.Storage.dll
 C:\udemy\Arquitectura\Empresarial_ArquitecturaMejorado\Pacagroup.Ecommerce.Services.WebApi\bin\Debug\net7.0\AutoMapper.dll
 C:\udemy\Arquitectura\Empresarial_ArquitecturaMejorado\Pacagroup.Ecommerce.Services.WebApi\bin\Debug\net7.0\AutoMapper.Extensions.Microsoft.DependencyInjection.dll
 C:\udemy\Arquitectura\Empresarial_ArquitecturaMejorado\Pacagroup.Ecommerce.Services.WebApi\bin\Debug\net7.0\Automatonymous.dll
@@ -463,7 +462,6 @@ C:\udemy\Arquitectura\Empresarial_ArquitecturaMejorado\Pacagroup.Ecommerce.Servi
 C:\udemy\Arquitectura\Empresarial_ArquitecturaMejorado\Pacagroup.Ecommerce.Services.WebApi\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.dll
 C:\udemy\Arquitectura\Empresarial_ArquitecturaMejorado\Pacagroup.Ecommerce.Services.WebApi\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.Abstractions.dll
 C:\udemy\Arquitectura\Empresarial_ArquitecturaMejorado\Pacagroup.Ecommerce.Services.WebApi\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.Design.dll
-C:\udemy\Arquitectura\Empresarial_ArquitecturaMejorado\Pacagroup.Ecommerce.Services.WebApi\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.InMemory.dll
 C:\udemy\Arquitectura\Empresarial_ArquitecturaMejorado\Pacagroup.Ecommerce.Services.WebApi\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.Relational.dll
 C:\udemy\Arquitectura\Empresarial_ArquitecturaMejorado\Pacagroup.Ecommerce.Services.WebApi\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.Relational.Design.dll
 C:\udemy\Arquitectura\Empresarial_ArquitecturaMejorado\Pacagroup.Ecommerce.Services.WebApi\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.Sqlite.dll
@@ -788,3 +786,17 @@ C:\udemy\Arquitectura\Empresarial_ArquitecturaMejorado\Pacagroup.Ecommerce.Servi
 C:\udemy\Arquitectura\Empresarial_ArquitecturaMejorado\Pacagroup.Ecommerce.Services.WebApi\obj\Debug\net7.0\Pacagroup.Ecommerce.Services.WebApi.pdb
 C:\udemy\Arquitectura\Empresarial_ArquitecturaMejorado\Pacagroup.Ecommerce.Services.WebApi\obj\Debug\net7.0\Pacagroup.Ecommerce.Services.WebApi.genruntimeconfig.cache
 C:\udemy\Arquitectura\Empresarial_ArquitecturaMejorado\Pacagroup.Ecommerce.Services.WebApi\obj\Debug\net7.0\ref\Pacagroup.Ecommerce.Services.WebApi.dll
+C:\udemy\Arquitectura\Empresarial_ArquitecturaMejorado\Pacagroup.Ecommerce.Services.WebApi\bin\Debug\net7.0\Microsoft.Extensions.Diagnostics.Abstractions.dll
+C:\udemy\Arquitectura\Empresarial_ArquitecturaMejorado\Pacagroup.Ecommerce.Services.WebApi\bin\Debug\net7.0\Microsoft.Extensions.FileProviders.Abstractions.dll
+C:\udemy\Arquitectura\Empresarial_ArquitecturaMejorado\Pacagroup.Ecommerce.Services.WebApi\bin\Debug\net7.0\Microsoft.Extensions.Hosting.Abstractions.dll
+C:\udemy\Arquitectura\Empresarial_ArquitecturaMejorado\Pacagroup.Ecommerce.Services.WebApi\bin\Debug\net7.0\System.Diagnostics.DiagnosticSource.dll
+C:\udemy\Arquitectura\Empresarial_ArquitecturaMejorado\Pacagroup.Ecommerce.Services.WebApi\bin\Debug\net7.0\de\Microsoft.Data.SqlClient.resources.dll
+C:\udemy\Arquitectura\Empresarial_ArquitecturaMejorado\Pacagroup.Ecommerce.Services.WebApi\bin\Debug\net7.0\es\Microsoft.Data.SqlClient.resources.dll
+C:\udemy\Arquitectura\Empresarial_ArquitecturaMejorado\Pacagroup.Ecommerce.Services.WebApi\bin\Debug\net7.0\fr\Microsoft.Data.SqlClient.resources.dll
+C:\udemy\Arquitectura\Empresarial_ArquitecturaMejorado\Pacagroup.Ecommerce.Services.WebApi\bin\Debug\net7.0\it\Microsoft.Data.SqlClient.resources.dll
+C:\udemy\Arquitectura\Empresarial_ArquitecturaMejorado\Pacagroup.Ecommerce.Services.WebApi\bin\Debug\net7.0\ja\Microsoft.Data.SqlClient.resources.dll
+C:\udemy\Arquitectura\Empresarial_ArquitecturaMejorado\Pacagroup.Ecommerce.Services.WebApi\bin\Debug\net7.0\ko\Microsoft.Data.SqlClient.resources.dll
+C:\udemy\Arquitectura\Empresarial_ArquitecturaMejorado\Pacagroup.Ecommerce.Services.WebApi\bin\Debug\net7.0\pt-BR\Microsoft.Data.SqlClient.resources.dll
+C:\udemy\Arquitectura\Empresarial_ArquitecturaMejorado\Pacagroup.Ecommerce.Services.WebApi\bin\Debug\net7.0\ru\Microsoft.Data.SqlClient.resources.dll
+C:\udemy\Arquitectura\Empresarial_ArquitecturaMejorado\Pacagroup.Ecommerce.Services.WebApi\bin\Debug\net7.0\zh-Hans\Microsoft.Data.SqlClient.resources.dll
+C:\udemy\Arquitectura\Empresarial_ArquitecturaMejorado\Pacagroup.Ecommerce.Services.WebApi\bin\Debug\net7.0\zh-Hant\Microsoft.Data.SqlClient.resources.dll

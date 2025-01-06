@@ -46,7 +46,10 @@
       },
       "Pacagroup.Ecommerce.Application.DTO/1.0.0": {
         "runtime": {
-          "Pacagroup.Ecommerce.Application.DTO.dll": {}
+          "Pacagroup.Ecommerce.Application.DTO.dll": {
+            "assemblyVersion": "1.0.0",
+            "fileVersion": "1.0.0.0"
+          }
         }
       }
     }

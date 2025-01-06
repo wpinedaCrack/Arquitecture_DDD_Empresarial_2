@@ -1832,7 +1832,10 @@
           "FluentValidation": "11.9.2"
         },
         "runtime": {
-          "Pacagroup.Ecommerce.Transversal.Common.dll": {}
+          "Pacagroup.Ecommerce.Transversal.Common.dll": {
+            "assemblyVersion": "1.0.0",
+            "fileVersion": "1.0.0.0"
+          }
         }
       }
     }
